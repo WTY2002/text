@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://wty2002.github.io/wty.github.io/",
+    "email": "2012180708@qq.com",
+    "platform": "github",
+    "repository": "wty.github.io",
+    "token": "f3b016181f5b92a697505768fcd22f7130161785",
+    "username": "WTY2002"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "5cc35875c782da68eae8",
+      "clientSecret": "4354a753a83034d7f8e13c8654e2e8a17a9f117d",
+      "owner": "WTY2002",
+      "repository": "wty.github.io"
+    },
+    "showComment": true
+  }
+}
